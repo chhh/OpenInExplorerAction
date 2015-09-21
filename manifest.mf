@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.chhh.netbeans.actions
+OpenIDE-Module-Layer: org/chhh/netbeans/actions/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/chhh/netbeans/actions/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
