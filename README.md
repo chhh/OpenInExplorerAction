@@ -7,8 +7,6 @@ explorer, you'll have a new action at the bottom to open your default system
 file-explorer (i.e. Explorer on Windows, Finder on Mac, etc.)  
 
 ### Requirements
-There are no pre-requisites, should work with any version of NetBeans, however
-it was built with 8.1 and has not been tested with other versions.
-
+There are no pre-requisites, should work with any version of NetBeans >8.0.
 
 #### Enjoy
